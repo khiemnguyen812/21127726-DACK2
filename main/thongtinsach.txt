@@ -1,0 +1,4 @@
+abc123981,Em cua ngay hom qua,Son Tung MTP,MTP Enter,2017,Am nhac,120000,12
+123456789,Chung ta cua hien tai,Son Tung MTP,MTP Enter,2020,Tieu thuyet,231000,123
+ijk98123,Hay trao cho anh,Son Tung MTP,MTP Enter,2018,Tinh cam,121000,43
+ijkabc123,You are the apple in my eyes,Cuu Ba Dao,NXB Ngon Tinh,2012,Hoc tro,312000,5
